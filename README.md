@@ -1,7 +1,5 @@
 # Bitbucket Pipeline CLI
 
-![Logo del tuo tool]
-
 Uno strumento CLI per gestire, lanciare e monitorare in tempo reale le pipeline di Bitbucket.
 
 ## Funzionalità
